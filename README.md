@@ -4,6 +4,9 @@ This is the github repo from which we can all collaborate!
 # benchmark datasets
 Which benchmark data will we use [TODO: link to said datasets]
 
+# pre-processing 
+What are best practices for pre-processing each dataset? Why? [TODO: someone fill this out]
+
 # tools
 Which tools are each group member planning on using? [TODO: a table of PI, tool name, link to code, link to paper]
 
